@@ -1,0 +1,1 @@
+This Python app utilizes the OpenWeatherMap API to retrieve weather forecasts based on latitude and longitude coordinates. Integrated with Twilio, it sends SMS notifications if rain is expected, serving as a personalized weather alert system. The primary APIs used are OpenWeatherMap for weather data and Twilio for SMS messaging functionality.
